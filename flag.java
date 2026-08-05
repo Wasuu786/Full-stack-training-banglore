@@ -17,7 +17,7 @@ public class flag extends Applet
 		g.setColor(Color.green);
 		g.fillRect(0,200,500,100);
 		
-		g.setColor(Color. navy blue);
+		g.setColor(Color. blue);
 		g.drawOval(200,100,100,100);
 		
 		
